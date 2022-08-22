@@ -1,6 +1,15 @@
-<!-- ===================================================================================================== -->
-<!-- ====== YOU *MUST* READ THE GUIDELINES & USE THIS TEMPLATE OR YOUR ISSUE WILL BE CLOSED ============== -->
-<!-- ===================================================================================================== -->
+---
+name: Bug report
+about: Report bugs and unexpected software behavior
+title: "[BUG]"
+labels: ''
+assignees: ''
+
+---
+
+<!-- ================================= -->
+<!-- = YOU *MUST* READ THE GUIDELINES & USE THIS TEMPLATE OR YOUR ISSUE WILL BE CLOSED = -->
+<!-- ================================= -->
 
 # ⚡ PowerGrid ⚡ Bug Report
 
